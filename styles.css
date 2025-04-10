@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  section {
+    margin: 20px 0;
+  }
+  
+  button {
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
